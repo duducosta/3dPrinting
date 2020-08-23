@@ -3,7 +3,7 @@
 ### WHERE TO FIND: [Thing 3769941 on Thingverse](https://www.thingiverse.com/thing:3769941)
 
 
-**__23/08/2020__**  
+**23/08/2020**  
 Who does not like organized cables?
 This project provides a chain that fits your Ender 3 perfectly, and without the need for screws, disassemble of cables, or anything. Just print, put it together and that's it.
 This was the very first useful thing that I printed (after the leveling test and the calibration cube), I even printed it with the filament that came with the printer.
