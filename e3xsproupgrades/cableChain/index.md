@@ -1,6 +1,9 @@
 [Back](https://duducosta.github.io/3dPrinting/e3xsproupgrades/)
 ## Cable chain
-### WHERE TO FIND: [Thing 3769941 on Thingverse](https://www.thingiverse.com/thing:3769941)
+### WHERE TO FIND: [Thing 3769941 on Thingverse](https://www.thingiverse.com/thing:3769941)  
+### MATERIALS: PLA
+* Small chain: 16 x 2g (small links) + 1 x 13g (motor support) + 1 x 2g (chain last piece)
+TOTAL: 47 g
 
 
 **-- 23/08/2020 --**  
@@ -16,7 +19,7 @@ I was able to put 5 of each smaller link on the bed, and used the "One at a Time
 It took about 2h20m each batch of 5 units.
 The bigger ones I was able to put 4 of each on the bed, and took about 1h50m each batch of 4 units.
 
-I used the standard Quality setting on Cura + 0,15 layer height.
+I used the standard quality setting on Cura + 0,15 layer height.
 
 
 [Back](https://duducosta.github.io/3dPrinting/e3xsproupgrades/)
