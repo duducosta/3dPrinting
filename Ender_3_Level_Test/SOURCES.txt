@@ -1,3 +1,0 @@
-Sources for Ender 3 Level Test
-
-Ender-3 Bed-leveling procedure (https://www.thingiverse.com/thing:2874536)
