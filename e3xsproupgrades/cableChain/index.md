@@ -22,4 +22,13 @@ The bigger ones I was able to put 4 of each on the bed, and took about 1h50m eac
 I used the standard quality setting on Cura + 0,15 layer height.
 
 
+### Photos
+![Five small links](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableChain/smallChain.jpg)  
+  
+  
+![Final small chain instalation](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableChain/smallChainFinal.jpg)
+Note that I used a zip tie to attach the last link with the cable. Ideally there should be a proper piece there, but I don't want to waste my time on Fusion 360 for that.
+I works as it is, and it is good enought for now.
+
+
 [Back](https://duducosta.github.io/3dPrinting/e3xsproupgrades/)
