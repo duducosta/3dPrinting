@@ -23,10 +23,10 @@ I used the standard quality setting on Cura + 0,15 layer height.
 
 
 ### Photos
-5 small links setup  
+**-- 5 small links setup--**  
 ![Five small links](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableChain/smallChain.jpg)  
   
-Small chain final instalation  
+**-- Small chain final instalation--** 
 Note that I used a zip tie to attach the last link with the cable. Ideally there should be a proper piece there, but I don't want to waste my time on Fusion 360 for that.
 I works as it is, and it is good enought for now.  
 ![Final small chain instalation](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableChain/smallChainFinal.jpg)  
