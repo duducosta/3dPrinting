@@ -10,7 +10,7 @@ I want some place that I can read stuff, stuff that are organized in a proper st
 And I can't have another notebook, I have too many already.  
 
 #### Two secondary reasons:  
-1. I get to train my english  
+1. I get to practice my english  
 2. I get to learn a little bit of HTML.  
 
 ## What to expect?  
