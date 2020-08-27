@@ -32,7 +32,7 @@ I works as it is, and it is good enought for now.
 ![Final small chain instalation](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableChain/smallChainFinal.jpg)  
 
 
-**-- Large chain final instalation--**
+**-- Large chain final instalation--**  
 ![Final larger chain instalation](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableChain/largeChainFinal.jpg)  
 
 Note that the final piece from this chain, the one that goes into the aluminum extruder keep breaking every time I twisted it 90º. SO in order to make it work, I removed the cover from the back side of the left aluminum extruder, slided the piece in, and put the cover back.
