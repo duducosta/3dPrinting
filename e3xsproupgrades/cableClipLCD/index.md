@@ -12,6 +12,8 @@ Easy print, you can probably fit 3 or more of them in one go.
 
 I used the standard Quality setting on Cura + 0,15 layer height (I forgot to change it, but it could probably to done with higher layer).
 
+### PHOTOS  
+![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/e3xsproupgrades/cableClipLCD/finalInstalation.jpg)  
 
 
 
