@@ -1,4 +1,4 @@
-# 3dPrinting
+# The misadventures of an amateur in 3d printing
 
 ## Why am I doing this?
 
