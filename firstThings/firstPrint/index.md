@@ -6,8 +6,8 @@
 Alright, you assembled your printer AND leveled your bed (really, level that thing!) now you are ready to 3d print you first thing ever, but what should it be?  
 Well, i recommend these things, in that order:  
 
-1. Calibration cube
-2. Benchy
+1. [Calibration cube](https://www.thingiverse.com/thing:1278865)
+2. [Benchy](https://www.thingiverse.com/thing:763622)
 
 These things are important, because you can check if your printer is working accordingly.  
 
