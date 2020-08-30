@@ -1,8 +1,10 @@
-## What to do right after the assemble  
+[Back](https://duducosta.github.io/3dPrinting/firstThings/)
+
+## First prints
 
 
 Alright, you assembled your printer AND leveled your bed (really, level that thing!) now you are ready to 3d print you first thing ever, but what should it be?  
-Well, i reccomend these things, in that order:  
+Well, i recommend these things, in that order:  
 
 1. Calibration cube
 2. Benchy
@@ -32,8 +34,12 @@ Celebrate the little victories!
 
 
 ### Photos
+Measure this cube with your caliper, if you read the instructions, it should be 20mm each side.    
+![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/FirstCube.jpg)  
   
+  
+There a lot of measurements to be done, and things to evaluate in the thing. Do it and try to fix if there is something to be fixed.
+![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/FirstBenchy.jpg)  
 
 
-
-
+[Back](https://duducosta.github.io/3dPrinting/firstThings/)
