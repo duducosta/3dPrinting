@@ -34,7 +34,7 @@ Use your eyes, try to figure out how it should look, and work from that.
 
 
 ### Photos
-![](https://duducosta.github.io/3dPrinting/firstThings/FirstLevel.jpg)
+![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/FirstLevel/firstLevel.jpg)
 
 
 [Back](https://duducosta.github.io/3dPrinting/firstThings/)

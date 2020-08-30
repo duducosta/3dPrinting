@@ -35,11 +35,11 @@ Celebrate the little victories!
 
 ### Photos
 Measure this cube with your caliper, if you read the instructions, it should be 20mm each side.    
-![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/FirstCube.jpg)  
+![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/firstPrint/FirstCube.jpg)  
   
   
 There a lot of measurements to be done, and things to evaluate in the thing. Do it and try to fix if there is something to be fixed.
-![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/FirstBenchy.jpg)  
+![](https://raw.githubusercontent.com/duducosta/3dPrinting/master/firstThings/firstPrint/FirstBenchy.jpg)  
 
 
 [Back](https://duducosta.github.io/3dPrinting/firstThings/)
