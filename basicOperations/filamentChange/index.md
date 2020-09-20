@@ -28,6 +28,7 @@ Back to changing the filament
 9. Press the extruder handle so that you can move your filament freely
 10. Push the filament intul it touches the nozzle
 11. Push the filament until ONLY the new color comes out. This will clean the rest of the old filament from the hot end and nozzle interior  
+Note that the the pushed material starts as white (old filament) and fases into black (new filament)
 ![Material](https://raw.githubusercontent.com/duducosta/3dPrinting/master/basicOperations/filamentChange/excessMaterial.jpg)  
 
 
